@@ -1,0 +1,1 @@
+{"version":3,"sources":["Sum.css"],"names":[],"mappings":"AAAA,SACE,qBAAsB,CACtB,YAAa,CACb,iBAAkB,CAClB,WACF","file":"main.dea3523a.chunk.css","sourcesContent":[".div_sum {\r\n  border: 4px solid grey;\r\n  padding: 10px;\r\n  border-radius: 4px;\r\n  width: 150px;\r\n}\r\n"]}
